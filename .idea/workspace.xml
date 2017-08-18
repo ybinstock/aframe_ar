@@ -24,10 +24,10 @@
       <file leaf-file-name="index.html" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.28645834">
-              <caret line="11" column="0" selection-start-line="11" selection-start-column="0" selection-end-line="11" selection-end-column="0" />
+            <state vertical-scroll-proportion="0.6510417">
+              <caret line="25" column="48" selection-start-line="25" selection-start-column="0" selection-end-line="26" selection-end-column="0" />
               <folding>
-                <marker date="1503073230000" expanded="true" signature="1173:1268" placeholder="..." />
+                <marker date="1503073375000" expanded="true" signature="1187:1282" placeholder="..." />
               </folding>
             </state>
           </provider>
@@ -38,8 +38,8 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/index.html" />
         <option value="$PROJECT_DIR$/.gitignore" />
+        <option value="$PROJECT_DIR$/index.html" />
       </list>
     </option>
   </component>
@@ -244,7 +244,7 @@
         <state vertical-scroll-proportion="0.0">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding>
-            <marker date="1503073230000" expanded="true" signature="1173:1268" placeholder="..." />
+            <marker date="1503073375000" expanded="true" signature="1187:1282" placeholder="..." />
           </folding>
         </state>
       </provider>
@@ -254,7 +254,7 @@
         <state vertical-scroll-proportion="0.0">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding>
-            <marker date="1503073230000" expanded="true" signature="1173:1268" placeholder="..." />
+            <marker date="1503073375000" expanded="true" signature="1187:1282" placeholder="..." />
           </folding>
         </state>
       </provider>
@@ -264,7 +264,7 @@
         <state vertical-scroll-proportion="0.0">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding>
-            <marker date="1503073230000" expanded="true" signature="1173:1268" placeholder="..." />
+            <marker date="1503073375000" expanded="true" signature="1187:1282" placeholder="..." />
           </folding>
         </state>
       </provider>
@@ -279,7 +279,7 @@
         <state vertical-scroll-proportion="0.0">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding>
-            <marker date="1503073230000" expanded="true" signature="1173:1268" placeholder="..." />
+            <marker date="1503073375000" expanded="true" signature="1187:1282" placeholder="..." />
           </folding>
         </state>
       </provider>
@@ -313,10 +313,10 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.28645834">
-          <caret line="11" column="0" selection-start-line="11" selection-start-column="0" selection-end-line="11" selection-end-column="0" />
+        <state vertical-scroll-proportion="0.6510417">
+          <caret line="25" column="48" selection-start-line="25" selection-start-column="0" selection-end-line="26" selection-end-column="0" />
           <folding>
-            <marker date="1503073230000" expanded="true" signature="1173:1268" placeholder="..." />
+            <marker date="1503073375000" expanded="true" signature="1187:1282" placeholder="..." />
           </folding>
         </state>
       </provider>
