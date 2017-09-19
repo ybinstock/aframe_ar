@@ -14,20 +14,12 @@
     <a-asset-item id="skull" src="skull_downloadable/scene.gltf"></a-asset-item>
   </a-assets>
 
-  <a-marker patternUrl='pattern1.patt'>
-    <!--should I put a spinning rotation on the objects-->
-    <!--<a-entity gltf-model-next="#helmet" rotation="-90 180 180" position="0 2 -4"></a-entity>-->
-    <a-entity gltf-model-next="#helmet"></a-entity>
-  </a-marker>
+  <a-marker-camera preset='hiro'>
 
-  <a-marker-camera type='pattern' patternUrl='pattern2.patt'>
-    <a-entity gltf-model-next="#skull"></a-entity>
-  </a-marker-camera>
-
-
-  <a-marker-camera type='pattern' patternUrl='pattern3.patt'>
     <a-entity gltf-model-next="#drone"></a-entity>
+
   </a-marker-camera>
+
 
 </a-scene>
 
@@ -36,7 +28,7 @@
 
 <!-- AR.JS with A-Frame documentation: https://aframe.io/blog/arjs/
        Step by step AR with A-Frame:
-       https://github.com/jeromeetienne/AR.js/blob/master/docs/posts/post-XX-how-to-use-arjs-with-aframe.md-->
+       -->
 
 <!-- This is a preset marker you can find here https://jeromeetienne.github.io/AR.js/data/images/HIRO.jpg.
  Just show it to the camera and the image will appear -->
